@@ -338,6 +338,7 @@ blockquote p {
 	float: left;
 	width: 100%;
 	position: relative;
+	
 }
 .full-height {
 	height:100%;
@@ -4544,6 +4545,7 @@ section {
 }
 .client-list {
 	margin:20px 0 50px;
+	display: none; 
 }
 .client-list li {
 	float: left;
